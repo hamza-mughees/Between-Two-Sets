@@ -1,4 +1,4 @@
-# Between-Two-Sets
+# Between Two Sets
 
 [![Run on Repl.it](https://repl.it/badge/github/hamza-mughees/Between-Two-Sets)](https://repl.it/github/hamza-mughees/Between-Two-Sets)
 
